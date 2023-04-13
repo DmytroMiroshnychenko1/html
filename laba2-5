@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Лабораторна 2 </title>
+    <style>
+      .brd {
+        border: 6px double green
+      }
+    </style>
+  </head>
+  <body>
+  	<FONT COLOR="#7B68EE" SIZE="5">
+  	<h1>В цьому році я закінчую 3 курс і я хочу розповісти вам про моїх одногрупників </h1>
+  <body background="poltntu.jpg">
+  	<h2><div class="brd"><img alt="yarik" width="250" height="250" src="yarik.jpg"></div> Ярік<p> Знайомі з самого початку навчання,товариський хлопець,завжди допоможе</p></h2>
+  	<h2><div class="brd"><img alt="sanya" width="250" height="200" src="sanya.jpg"></div>  Саша<p>Займається аккаунтами фейсбук</p></h2>
+  	<h2><div class="brd"><img alt="andrei" width="250" height="250" src="andrei.jpg"></div>  Андрій<p>Дуже гарно розуміється в радіотехніці та фізиці </p></h2>
+  </body>
+</html>
